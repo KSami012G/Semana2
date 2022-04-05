@@ -1,0 +1,65 @@
+body{
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    background: linear-gradient(to right,rgb(13, 160, 228),rgba(233, 11, 122, 0.918));
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#cuadro{
+    background-color: #fff;
+    padding: 10px;
+    width: 500px;
+    margin: 5px;
+}
+
+#cuadrito{
+    background-color:rgb(235, 17, 17);
+    padding: 10px;
+    margin: 5px;
+}
+
+#cuadrito2{
+    background-color: rgb(17, 204, 110);
+    padding: 10px;
+    margin: 5px;
+}
+
+#cuadrito h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+#cuadrito2 input{
+    font-size: 20px;
+    background-color: #fff;
+    color: #000;
+}
+header{
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    width: 100%;
+}
+#navegacion{
+    padding: 20px;
+}
+#navegacion ul{
+    list-style: none;
+    text-align: center;
+}
+#navegacion li{
+    display: inline;
+    text-align: center;
+    margin: 0px 25px 0px 0px ;
+}
+#navegacion li a{
+    padding: 10px 50px 10px 50px;
+    color: #fff;
+    background-color: #25ac;
+    border: 4px solid #000;
+    text-decoration: none;
+}

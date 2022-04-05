@@ -1,0 +1,31 @@
+body{
+    background-color:#00008b;
+}
+
+.parrafo1{
+    font-size: 30px;
+    position: relative;
+    text-align: right;
+    color:#f30d65 ;
+}
+
+.parrafo2{
+    font-size: 40px;
+    position: relative;
+    text-align: center;
+    color:#ee530c;
+}
+
+.parrafo3{
+    font-size: 38px;
+    position: relative;
+    text-align: center;
+    color:rgb(247, 7, 7);
+}
+
+.parrafo4{
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    color:#00ff55;
+}
